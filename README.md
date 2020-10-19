@@ -1,2 +1,2 @@
-# ReqHub-Postman
+# ReqHubPostman
 Make ReqHub requests with Postman
