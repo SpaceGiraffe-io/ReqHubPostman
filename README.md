@@ -1,6 +1,6 @@
 # ReqHubPostman
 
-Make ReqHub requests with Postman
+Make ReqHub requests with Postman.
 
 ## Quickstart
 
